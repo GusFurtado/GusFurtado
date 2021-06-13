@@ -12,6 +12,5 @@ Hey, thanks for checking in.
 
 ### Projects
 - **[DadosAbertosBrasil](https://github.com/GusFurtado/DadosAbertosBrasil)**: A fully documented Python package for fetching public data from brazilian institutions.
-- **[Mapa de Indicadores Municipais](https://mapa-indicadores-municipais.herokuapp.com/)**: A [Dash by Plotly](https://plotly.com/dash/) app featuring [IBGE](https://www.gustavofurtado.com/DadosAbertosBrasil/ibge.html) module of the [DadosAbertosBrasil](https://github.com/GusFurtado/DadosAbertosBrasil) package.
-- **[Painel de Deputados](https://despesas-deputados.herokuapp.com/)**: Another web app powered by [Dash](https://plotly.com/dash/) featuring the [Chamber of Deputies](https://www.gustavofurtado.com/DadosAbertosBrasil/camara.html) module of the [DadosAbertosBrasil](https://github.com/GusFurtado/DadosAbertosBrasil) package.
-- **[Indicadores Econômicos](https://indicadores-macroeconomicos.herokuapp.com/)**: A third [Dash](https://plotly.com/dash/) web app featuring [Ipeadata](https://www.gustavofurtado.com/DadosAbertosBrasil/ipea.html) module of the [DadosAbertosBrasil](https://github.com/GusFurtado/DadosAbertosBrasil) package.
+- **[DAB Applications](https://dadosabertosbrasil.herokuapp.com/)**: A set of applications showcasing [DadosAbertosBrasil](https://github.com/GusFurtado/DadosAbertosBrasil) features, built with [Dash by Plotly](https://plotly.com/dash/).
+- **[Portfolio Optimizer]** (work in progress): A web application to simulate and optimize an investiment portfolio using [Markowitz Portfolio Theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory).
