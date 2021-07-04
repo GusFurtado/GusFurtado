@@ -13,4 +13,4 @@ Hey, thanks for checking in.
 ### Projects
 - **[DadosAbertosBrasil](https://github.com/GusFurtado/DadosAbertosBrasil)**: A fully documented Python package for fetching public data from brazilian institutions.
 - **[DAB Applications](https://dadosabertosbrasil.herokuapp.com/)**: A set of applications showcasing [DadosAbertosBrasil](https://github.com/GusFurtado/DadosAbertosBrasil) features, built with [Dash by Plotly](https://plotly.com/dash/).
-- **[Portfolio Optimizer]** (work in progress): A web application to simulate and optimize an investiment portfolio using [Markowitz Portfolio Theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory).
+- **[Portfolio Optimizer](https://diversificador.herokuapp.com/)**: A web application to simulate and optimize an investiment portfolio using [Markowitz Portfolio Theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory).
