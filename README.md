@@ -9,13 +9,17 @@ Hey, thanks for stopping by!
 ### Where to find me
 - [My Website](https://www.gustavofurtado.com/)
 - [My LinkedIn profile](https://www.linkedin.com/in/gustavo-furtado/)
+- [Outliers Analytics](https://outliersanalytics.github.io/) — a small studio for data & analytics tooling
 
-### Featured Projects
+### What I build
 
-- [DadosAbertosBrasil](https://github.com/GusFurtado/DadosAbertosBrasil): A fully documented Python package for fetching public data from Brazilian institutions.
-- [MarkoWizard](https://github.com/OutliersAnalytics/MarkoWizard): A Python toolkit for [Markowitz Portfolio Theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory) — efficient frontier, capital allocation line, and an interactive FastAPI web app.
-- [Cellmate](https://github.com/OutliersAnalytics/cellmate): A Python package for creating and managing styled Excel spreadsheets using OpenPyXL.
-- [statsjunk](https://github.com/OutliersAnalytics/statsjunk): A collection of statistical odds and ends.
+**Solo / open source**
+- [DadosAbertosBrasil](https://github.com/GusFurtado/DadosAbertosBrasil) — the easiest way to pull Brazilian government data into Python
+
+**With [Outliers Analytics](https://github.com/OutliersAnalytics)**
+- [MarkoWizard](https://github.com/OutliersAnalytics/MarkoWizard) — Markowitz portfolio optimization, as a web app
+- [Cellmate](https://github.com/OutliersAnalytics/cellmate) — styled Excel spreadsheets without the OpenPyXL pain
+- [statsjunk](https://github.com/OutliersAnalytics/statsjunk) — the stats utilities I keep reaching for
 
 ### Additional Links
 - [My Curriculum](https://github.com/GusFurtado/MyWebsite/tree/master/documents/curriculum)
