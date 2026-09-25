@@ -13,10 +13,7 @@ Hey, thanks for stopping by!
 
 ### What I build
 
-**Solo / open source**
 - [DadosAbertosBrasil](https://github.com/GusFurtado/DadosAbertosBrasil) — the easiest way to pull Brazilian government data into Python
-
-**With [Outliers Analytics](https://github.com/OutliersAnalytics)**
 - [MarkoWizard](https://github.com/OutliersAnalytics/MarkoWizard) — Markowitz portfolio optimization, as a web app
 - [Cellmate](https://github.com/OutliersAnalytics/cellmate) — styled Excel spreadsheets without the OpenPyXL pain
 - [statsjunk](https://github.com/OutliersAnalytics/statsjunk) — the stats utilities I keep reaching for
